@@ -25,4 +25,6 @@ The data consists of 10015 images of sizes 650x450 with the 3 channels RGB. Ther
 * Dataloader batch training of 32 samples
 * CrossEntropyLoss and AdamW Optimizer with lr .0001 and built-in weight decay
 
+## Result
+
 
