@@ -1,5 +1,2 @@
 # Skin Cancer MNIST: HAM10000
-
-# Methodologies
-
-## Data
+The HAM10000 dataset is a collection of over 10,000 dermatoscopic images of pigmented skin lesions. This diverse dataset is widely used for academic machine learning research, particularly in the field of skin cancer classification. The goal is to create a practical usage of Image Recognition AI to accurately predict benign and malignant lesions
