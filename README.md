@@ -29,7 +29,13 @@ The data consists of 10015 images of sizes 650x450 with the 3 channels RGB. Ther
 ![image](https://github.com/user-attachments/assets/6a01fe6d-4738-485d-8624-c0216806c0a2)
 
 ### Confusion Matrix
-![image](https://github.com/user-attachments/assets/409e2484-e0df-48da-9b90-25e6abd9919c)
+![image](https://github.com/user-attachments/assets/b3375c35-1ffc-404a-b588-9d528d4e03d6)
+
+### Classification Report(Precision, Recall, F1-Score)
+![image](https://github.com/user-attachments/assets/bf4bfa03-6467-4454-a3d8-abf79defbb8b)
+
+
+
 
 
 
