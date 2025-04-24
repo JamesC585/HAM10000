@@ -26,5 +26,10 @@ The data consists of 10015 images of sizes 650x450 with the 3 channels RGB. Ther
 * CrossEntropyLoss and AdamW Optimizer with lr .0001 and built-in weight decay
 
 ## Result
+![image](https://github.com/user-attachments/assets/6a01fe6d-4738-485d-8624-c0216806c0a2)
+
+### Confusion Matrix
+![image](https://github.com/user-attachments/assets/409e2484-e0df-48da-9b90-25e6abd9919c)
+
 
 
